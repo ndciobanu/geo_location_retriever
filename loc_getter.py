@@ -1,3 +1,13 @@
+#!/usr/bin/env python
+
+#######################################################
+# Script takes a physical address or a file containing
+#   a list of addresses and returns their latitude and
+#   longitude. This uses Google's Maps API.
+#
+#   Author: Nathan Ciobanu <nathanciobanu@gmail.com>
+#######################################################
+
 import argparse
 
 
